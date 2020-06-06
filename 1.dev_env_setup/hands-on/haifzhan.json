@@ -1,0 +1,28 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Zhang Haifeng",
+      "team": "DNA",
+      "manager": "Jarod Zhu",
+      "location": "Beijing",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "DNA",
+          "years": 3
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        },
+        {
+          "name": "Chinese",
+          "level": "pro"
+        }
+      ],
+      "hobbies": "eat play"
+    }
+  ]
+}
